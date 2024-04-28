@@ -1,4 +1,4 @@
-<Strong>Microservices Architecture for Customer Fraud Detection</Strong>
+**Microservices Architecture for Customer Fraud Detection**
 
 It implements;
 
