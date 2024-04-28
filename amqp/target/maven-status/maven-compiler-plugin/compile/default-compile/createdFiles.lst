@@ -1,0 +1,3 @@
+com\allancode\amqp\AmqpApplication.class
+com\allancode\amqp\RabbitMQMessageProducer.class
+com\allancode\amqp\RabbitMQConfig.class

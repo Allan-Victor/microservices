@@ -1,0 +1,5 @@
+com\allancode\clients\notification\NotificationRequest.class
+com\allancode\clients\fraud\FraudClient.class
+com\allancode\clients\notification\NotificationClient.class
+com\allancode\Main.class
+com\allancode\clients\fraud\FraudCheckResponse.class

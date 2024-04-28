@@ -1,0 +1,8 @@
+com\allancode\customer\CustomerRegistrationRequest.class
+com\allancode\customer\CustomerApplication.class
+com\allancode\customer\Customer.class
+com\allancode\customer\CustomerController.class
+com\allancode\customer\CustomerService.class
+com\allancode\customer\CustomerRepository.class
+com\allancode\customer\CustomerConfig.class
+com\allancode\customer\Customer$CustomerBuilder.class

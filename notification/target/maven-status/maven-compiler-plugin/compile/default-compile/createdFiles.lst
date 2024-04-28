@@ -1,0 +1,8 @@
+com\allancode\notification\NotificationApplication.class
+com\allancode\notification\rabbitmq\NotificationConsumer.class
+com\allancode\notification\Notification.class
+com\allancode\notification\Notification$NotificationBuilder.class
+com\allancode\notification\NotificationController.class
+com\allancode\notification\NotificationService.class
+com\allancode\notification\NotificationRepository.class
+com\allancode\notification\NotificationConfig.class

@@ -1,0 +1,6 @@
+com\allancode\fraud\FraudCheckService.class
+com\allancode\fraud\FraudCheckHistory.class
+com\allancode\fraud\FraudCheckHistoryRepository.class
+com\allancode\fraud\FraudController.class
+com\allancode\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\allancode\FraudApplication.class
